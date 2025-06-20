@@ -100,7 +100,7 @@ NYC-Collision-Analysis-Predictions/
 - Predictions include input sliders/dropdowns and live results  
 
 ---
-## 📊 Snapshots of Visualizations
+## 📊 Visualizations
 
 <table>
   <tr>
