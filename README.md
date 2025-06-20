@@ -186,7 +186,7 @@ Through intuitive design and predictive capabilities, this tool bridges the gap 
 Interested in collaborating or have questions? Let’s connect!  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/srikanthreddy-maddireddy/)  
-💻 [GitHub](https://github.com/srikanthreddy-29)   
+💻 [GitHub](https://github.com/srikanthreddy-29)  
 🌐 [Live App](https://nyc-collision-analysis-predictions.streamlit.app/)
 
 
