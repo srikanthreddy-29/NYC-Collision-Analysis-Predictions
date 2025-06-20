@@ -112,6 +112,10 @@ NYC-Collision-Analysis-Predictions/
     <td><strong>🚘 Vehicle Types Involved</strong><br><img src="./reports/image_7.png" width="100%"/></td>
   </tr>
   <tr>
+    <td><strong>🟣Injuries vs Fatalities by Borough</strong><br><img src="./reports/image_3.png" width="100%"/></td>
+    <td><strong>📈 Motorist Injured vs Total Injured</strong><br><img src="./reports/image_6.png" width="100%"/></td>
+  </tr>
+  <tr>
     <td><strong>🧮 Correlation Heatmap</strong><br><img src="./reports/image_1.png" width="100%"/></td>
     <td><strong>🗺️ Geospatial Collision Map</strong><br><img src="./reports/image_13.png" width="100%"/></td>
   </tr>
@@ -175,6 +179,15 @@ The end-to-end dashboard serves as a decision-support tool for:
 - Citizens interested in understanding risks in their neighborhoods
 
 Through intuitive design and predictive capabilities, this tool bridges the gap between raw data and impactful action.
+
+---
+## 📩 Contact
+
+Interested in collaborating or have questions? Let’s connect!  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/srikanthreddy-maddireddy/)  
+💻 [GitHub](https://github.com/srikanthreddy-29)
+🌐 [Live App](https://nyc-collision-analysis-predictions.streamlit.app/)
 
 
 
