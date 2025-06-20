@@ -72,7 +72,8 @@ NYC-Collision-Analysis-Predictions/
 ├── streamlit_app.py                    # 🚀 Main Streamlit app for interactive UI
 ├── requirements.txt                    # 📋 List of Python packages required
 └── README.md                           # 📘 Project overview and documentation
-</details> ```
+```
+</details> 
 
 ---
 ## 🧩 Key Functionalities
